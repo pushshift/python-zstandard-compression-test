@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 
-import json
-import sys
 import zstandard as zstd
 import time
-import requests
 
 # zstandard module info: https://pypi.org/project/zstandard/
 
